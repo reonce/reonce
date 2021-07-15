@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm 饮冬, Web developer from Chengdu, China.
+I'm YinDong, Web developer from Chengdu, China.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
