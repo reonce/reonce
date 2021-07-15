@@ -1,9 +1,9 @@
 <h1 align="center">
- Jaydon Yin
+ YinDong
 </h1>
 
 ## Hey! 👋
-I'm JaydonYin, Web developer from Chengdu, China.
+I'm 饮冬, Web developer from Chengdu, China.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
