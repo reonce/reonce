@@ -7,6 +7,6 @@ I'm YinDong, Web developer from Chengdu, China.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ Angular, Vue, React
+- ⚙️  Vue, React, Angular
 - 👁️ SASS, CSS, Stylus
 - 💽 Node, MySql
