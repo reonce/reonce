@@ -2,11 +2,18 @@
  Reonce
 </h1>
 
-## Hey! 👋
-I'm Reonce, Web developer from Chengdu, China.
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, Vue
-- 👁️ SASS, Less, CSS, Stylus
-- 💽 Node, MySql
+你好! 👋 我叫饮东，一名前端程序员。
+
+
+
+[日更笔记&随笔地址](https://github.com/reonce/notes-and-essays)
+
+
+
+[切换本地环境脚本](https://github.com/reonce/env-shell)
+
+
+
+[VsCode 插件 react-funciton-snippets](https://github.com/reonce/react-function-snippets)
+
