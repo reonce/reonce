@@ -10,7 +10,7 @@
 [日更笔记&随笔地址](https://github.com/reonce/notes-and-essays)
 
 
-[掘金地址](https://juejin.cn/user/3958668048476429)
+[掘金地址](https://juejin.cn/user/3958668048476429/posts)
 
 
 
