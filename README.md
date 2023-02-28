@@ -7,7 +7,7 @@
 
 
 
-[日更笔记&随笔地址](https://github.com/reonce/notes-and-essays)
+[前端笔记汇总](https://github.com/reonce/Note-FE)
 
 
 [掘金地址](https://juejin.cn/user/3958668048476429/posts)
