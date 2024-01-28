@@ -11,7 +11,7 @@
 
 [红宝书精读](https://github.com/reonce/notes-and-essays)
 
-[掘金地址](https://juejin.cn/user/3958668048476429/posts)
+[掘金](https://juejin.cn/user/3958668048476429/posts)
 
 
 
