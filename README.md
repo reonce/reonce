@@ -16,5 +16,3 @@
 [切换本地环境脚本](https://github.com/reonce/env-shell)
 
 
-微信公众号 《饮东的网络日志》
-
