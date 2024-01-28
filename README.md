@@ -13,6 +13,5 @@
 
 [掘金地址](https://juejin.cn/user/3958668048476429/posts)
 
-[切换本地环境脚本](https://github.com/reonce/env-shell)
 
 
