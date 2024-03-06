@@ -9,7 +9,6 @@
 
 [前端知识图谱](https://github.com/reonce/Note-FE)
 
-[红宝书精读](https://github.com/reonce/notes-and-essays)
 
 [掘金](https://juejin.cn/user/3958668048476429/posts)
 
